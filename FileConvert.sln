@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvert.Api", "FileConvert.Api\FileConvert.Api.csproj", "{D981DAB4-A8DB-4D7A-A5EF-E64153D17F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvert.Domain", "FileConvert.Domain\FileConvert.Domain.csproj", "{F97EB6A7-6D22-42EC-810D-D8567BE16126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvert.Entities", "FileConvert.Entities\FileConvert.Entities.csproj", "{21EEBC7E-7D40-47D3-8838-6A2CC9C5C66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvert.Helper", "FileConvert.Helper\FileConvert.Helper.csproj", "{86E05FE0-4FCC-48E7-8166-DED21FE13344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvert.Infra", "FileConvert.Infra\FileConvert.Infra.csproj", "{C933594B-6DB0-44C5-B134-72190B120E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvert.Test", "FileConvert.Test\FileConvert.Test.csproj", "{F03343D6-ACEC-4902-87D7-D1FB7747FC27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D981DAB4-A8DB-4D7A-A5EF-E64153D17F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D981DAB4-A8DB-4D7A-A5EF-E64153D17F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D981DAB4-A8DB-4D7A-A5EF-E64153D17F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D981DAB4-A8DB-4D7A-A5EF-E64153D17F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97EB6A7-6D22-42EC-810D-D8567BE16126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97EB6A7-6D22-42EC-810D-D8567BE16126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97EB6A7-6D22-42EC-810D-D8567BE16126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97EB6A7-6D22-42EC-810D-D8567BE16126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EEBC7E-7D40-47D3-8838-6A2CC9C5C66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EEBC7E-7D40-47D3-8838-6A2CC9C5C66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EEBC7E-7D40-47D3-8838-6A2CC9C5C66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EEBC7E-7D40-47D3-8838-6A2CC9C5C66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E05FE0-4FCC-48E7-8166-DED21FE13344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E05FE0-4FCC-48E7-8166-DED21FE13344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E05FE0-4FCC-48E7-8166-DED21FE13344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E05FE0-4FCC-48E7-8166-DED21FE13344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C933594B-6DB0-44C5-B134-72190B120E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C933594B-6DB0-44C5-B134-72190B120E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C933594B-6DB0-44C5-B134-72190B120E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C933594B-6DB0-44C5-B134-72190B120E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03343D6-ACEC-4902-87D7-D1FB7747FC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03343D6-ACEC-4902-87D7-D1FB7747FC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03343D6-ACEC-4902-87D7-D1FB7747FC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03343D6-ACEC-4902-87D7-D1FB7747FC27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F564D53-721F-4028-9ADD-80F5DC859183}
+	EndGlobalSection
+EndGlobal
